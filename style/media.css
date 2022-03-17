@@ -1,0 +1,235 @@
+@media(max-width:1510px){
+.header__info{
+    align-items: center;
+}
+.option__cards{
+    margin-left: 62px;
+}
+}
+@media(max-width:1500px){
+    .footer__title {
+       
+        padding-left: 40px;
+    }
+    }
+@media(max-width:1440px){
+    .footer__title {
+        font-size: 44px;
+        line-height: 46px;
+        padding-left: 50px;
+    }
+    .option__cards{
+        margin-left: 62px;
+    }
+    }
+    @media(max-width:1400px){
+        .footer__title {
+            font-size: 40px;
+            line-height: 40px;
+            padding-left: 60px;
+        }
+    }
+    @media(max-width:1380px){
+        .footer__title {
+            font-size: 30px;
+            line-height: 30px;
+            padding-left: 70px;
+        }
+    }
+    @media(max-width:1360px){
+        .option__cards{
+            margin-left: 50px;
+        }
+    }
+    @media(max-width:1360px){
+        .footer__title {
+            font-size: 30px;
+            line-height: 30px;
+            padding-left: 90px;
+        }
+        .option__cards{
+            margin-left: 115px;
+        }
+        .article__title{
+            text-align: center;
+        }
+        .comment__text {
+            max-width: 700px;
+        }
+        
+    }
+    @media(max-width:1200px){
+        .comment__text {
+            max-width: 600px;
+            font-size: 13px;
+        }
+        .news{
+            font-size: 13px;
+        }
+    }
+    @media(max-width:1200px){
+        .card{
+            margin: 10px;
+        }
+        .comment__text {
+            margin-left: 90px;
+        }
+    }
+    @media(max-width:992px){
+        .news{
+            width: 88%;
+        }
+        .footer__title {
+            font-size: 26px;
+        }        
+    }
+    @media(max-width:978px){
+    .news{
+        row-gap: 20px;
+    }
+    .article__title{
+        padding-top: 20px;
+    }
+    .article__news{
+        margin-left: 10px;
+    }
+}
+@media(max-width:719px){
+    .article__title{
+        font-size: 17px;
+    }
+    .footer__number{
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .footer__email {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .footer__title {
+        font-size: 23px;
+    }
+}
+@media(max-width:675px){
+    .option__cards{
+        justify-content: center;
+        
+    }
+    .article__content{
+        justify-content: center;
+    }
+}
+@media(max-width:675px){
+    .comment__text{
+        max-width: 470px;
+    }
+}
+@media(max-width:624px){
+    .article__title{
+        font-size: 15px;
+    }
+    .option__cards{
+       justify-content: center;
+    }
+    .article__content{
+        margin-left: 100px;
+    }
+    .comment__text{
+        margin-left: 0;
+    }
+} 
+@media(max-width:575px){
+    .header__title {
+        font-size: 43px;
+        line-height: 43px; 
+}
+.option__cards{
+    justify-content: center;
+}
+}
+@media(max-width:425){
+    .header__title {
+        font-size: 37px;
+        line-height: 35px;
+        text-align: center;
+    }
+    .header__txt{
+        text-align: center;
+        padding-left: 20px;
+        font-size: 13px;
+    line-height: 16px;
+    }  
+    .option__cards {
+        margin-left: 112px;
+    }
+    .footer__content{
+        justify-content: center;
+        row-gap: 10px;
+    }
+    .footer__info{
+        align-items: center;
+    }
+    .footer__title{
+        padding-left: 78px;
+    }
+}
+@media(max-width:375px){
+    .header__title {
+        font-size: 29px;
+        line-height: 38px;
+        text-align: center;
+    }
+    .header__txt{
+        padding-left: 40px;
+    }
+   .btn{
+    font-size: 12px;
+    line-height: 19px;
+    padding: 5px 40px;
+   }
+   .article{
+       padding: 0;
+   }
+   .footer{
+       padding: 10px 0;
+       margin-top: 10px;
+   }
+   .footer__content{
+       justify-content: center;
+   }
+   .footer__title{
+    font-size: 19px;
+    padding-left: 54px;
+   }
+   .footer__info{
+    padding-left: 44px;
+        padding-top: 10px;
+   }
+   .news__item{
+       width: 110%;
+   }
+}
+@media(max-width:320px){
+    .header__title {
+        font-size: 23px;
+        line-height: 29px;}
+        .header__txt{
+            font-size: 12px;
+        }.btn {
+            margin-left: 31px;}
+            .option__cards {
+                margin-left: 95px;
+            }
+            .card__title {
+                font-size: 18px;}
+                .btn{
+                    margin-left: 0;
+                    padding: 4px 29px;
+                }
+                .footer__info {
+                    padding-left: 70px;
+                }
+                .footer__title{
+                    padding-left: 94px;
+                }
+}
